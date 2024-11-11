@@ -1,0 +1,18 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@openzeppelin/contracts": "^5.0.2",
+    "@openzeppelin/contracts-upgradeable": "^5.0.2",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.22.10",
+    "hardhat-gas-reporter": "^1.0.10",
+    "solidity-coverage": "^0.8.13"
+  },
+  "dependencies": {
+    "@layerzerolabs/oapp-evm": "^0.0.4",
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "@openzeppelin/contracts": "^5.0.1",
+    "dotenv": "^16.4.5"
+  }
+}
